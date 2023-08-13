@@ -57,14 +57,3 @@ To get started with this project, follow these steps:
 
 3. **Analytics**: Use Azure Synapse Analytics to execute SQL scripts in order to derive insights from the transformed data.
 
-## Contribute
-
-We welcome contributions to enhance the project! Feel free to submit pull requests or open issues for any improvements or fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-By following this guide, you'll be able to set up and explore the Olympics Data Analysis project on Azure. Have fun exploring the data and discovering valuable insights!
