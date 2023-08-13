@@ -1,5 +1,10 @@
 # Olympics-DE-Project
 
+<img width="1156" alt="Screenshot 2023-08-13 at 7 51 38 PM" src="https://github.com/chdl17/Olympics-DE-Project/assets/120616550/356e8929-5782-47ec-b1d7-e8917bfba580">
+
+
+
+
 Welcome to the Olympics Data Engineering project on Azure! This project is designed to showcase how various Azure services can be utilized to ingest, store, transform, and analyze Olympics-related data. We have employed the following Azure services to achieve these goals:
 
 - **Azure Data Factory (ADF)**: Used for data ingestion, Azure Data Factory allows us to efficiently collect data from various sources and move it to the desired destination. In this project, ADF is responsible for bringing in Olympics data from external sources.
