@@ -6,13 +6,10 @@ Welcome to the Olympics Data Engineering project on Azure! This project is desig
 - [Introduction-to-Tools](#Introduction-to-Tools)
 - [Getting-Started](#Getting-Started)
 - [Architecture](#architecture)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Structure](#Structure)
+- [Prerequisites](#Prerequisites)
+- [Usage](#Usage)
 
-
-
-<img width="1156" alt="Screenshot 2023-08-13 at 7 51 38 PM" src="https://github.com/chdl17/Olympics-DE-Project/assets/120616550/356e8929-5782-47ec-b1d7-e8917bfba580">
 
 # Introduction-to-Tools
 - **Azure Data Factory (ADF)**: Used for data ingestion, Azure Data Factory allows us to efficiently collect data from various sources and move it to the desired destination. In this project, ADF is responsible for bringing in Olympics data from external sources.
@@ -37,9 +34,9 @@ To get started with this project, follow these steps:
 
 # Architecture
 
+<img width="1156" alt="Screenshot 2023-08-13 at 7 51 38 PM" src="https://github.com/chdl17/Olympics-DE-Project/assets/120616550/356e8929-5782-47ec-b1d7-e8917bfba580">
 
-
-## Structure
+# Structure
 
 ```
 - data_ingestion/
@@ -58,13 +55,13 @@ To get started with this project, follow these steps:
 - README.md
 ```
 
-## Prerequisites
+# Prerequisites
 
 - Azure subscription: Ensure you have an active Azure subscription to provision the required services.
 - Access to Azure Portal: You'll need access to the Azure portal to create and manage resources.
 - Data Sources: Identify the external sources from which you'll be ingesting Olympics data.
 
-## Usage
+# Usage
 
 1. **Data Ingestion**: Configure and run the ADF pipelines to ingest the Olympics data into Azure Data Lake Storage Gen2.
 
