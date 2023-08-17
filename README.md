@@ -4,7 +4,7 @@ Welcome to the Olympics Data Engineering project on Azure! This project is desig
 
 ## Table of Contents
 - [Introduction-to-Tools](#introduction-to-tools)
-- [Getting-Started](#getting-started)
+- [About-Project](#about-project)
 - [Architecture](#architecture)
 - [Structure](#structure)
 - [Prerequisites](#prerequisites)
@@ -20,7 +20,7 @@ Welcome to the Olympics Data Engineering project on Azure! This project is desig
 
 - **Azure Synapse Analytics**: To gain valuable insights from the transformed data, we utilize Azure Synapse Analytics. It allows us to run SQL queries on the data warehouse to extract meaningful information. This is where we uncover trends, patterns, and insights related to the Olympics data.
 
-# Getting-Started
+# About-Project
 
 To get started with this project, follow these steps:
 
