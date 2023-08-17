@@ -3,12 +3,12 @@
 Welcome to the Olympics Data Engineering project on Azure! This project is designed to showcase how various Azure services can be utilized to ingest, store, transform, and analyze Olympics-related data. We have employed the following Azure services to achieve these goals:
 
 ## Table of Contents
-- [Introduction-to-Tools](#Introduction-to-Tools)
-- [Getting-Started](#gettingstarted)
+- [Introduction-to-Tools](#introduction-to-tools)
+- [Getting-Started](#getting-started)
 - [Architecture](#architecture)
 - [Structure](#structure)
 - [Prerequisites](#prerequisites)
-- [Usage](#Usage)
+- [Usage](#usage)
 
 
 # Introduction-to-Tools
