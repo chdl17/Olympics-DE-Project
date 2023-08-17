@@ -4,10 +4,10 @@ Welcome to the Olympics Data Engineering project on Azure! This project is desig
 
 ## Table of Contents
 - [Introduction-to-Tools](#Introduction-to-Tools)
-- [Getting-Started](#Getting-Started)
+- [Getting-Started](#gettingstarted)
 - [Architecture](#architecture)
-- [Structure](#Structure)
-- [Prerequisites](#Prerequisites)
+- [Structure](#structure)
+- [Prerequisites](#prerequisites)
 - [Usage](#Usage)
 
 
